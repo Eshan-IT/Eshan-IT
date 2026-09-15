@@ -95,64 +95,60 @@ I am an **IT Engineer** currently pursuing my studies, with a strong passion for
 
 ---
 
-## 🧪 AI / ML Expertise Area
-
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| Machine Learning Basics | Beginner | Supervised Learning, Scikit-Learn, Regression Models |
-| Data Processing | Intermediate | Data analysis & manipulation using Python, Pandas, NumPy |
-| AI Integration | Beginner | API integration of LLMs and structured prompt flows |
-
----
-
-## 📌 Featured Projects
-
-Comming Soon....
-
----
-
-## 💼 Experience
-
-### IT Engineering Student & Developer
-**Academic / Project Work** | *2024 - Present*
-
-* Engineered responsive web interfaces using modern frameworks including React and Next.js.
-* Built secure REST APIs and managed data schemas using Node.js, Express, and SQL/NoSQL databases.
-* Utilized Git workflows, branch strategies, and containerization tools like Docker for project versioning.
-
-`JavaScript` `TypeScript` `React` `Node.js` `MongoDB` `Docker`
-
----
-
-## 🏆 Achievements
+## 📊 GitHub Stats
 
 <div align="center">
 
-| Recognition | Details |
-| :--- | :--- |
-| **Open Source Contributor** | Active participant in community repositories and developer projects |
-| **Algorithm Practice** | Consistently solving Data Structures & Algorithms challenges |
-| **Academic Projects** | Delivered multiple end-to-end full-stack engineering assignments |
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Eshan-IT&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshan-IT&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshan-IT&theme=radical&hide_border=true&border_radius=10&fire=FF6B6B" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshan-IT&theme=react-dark&hide_border=true" width="100%"/>
 
 </div>
 
----
+<br>
 
-## 📜 Certifications
+## 🐍 Contribution Snake
 
-### Web & Software Foundations
-<img src="https://img.shields.io/badge/FreeCodeCamp-Responsive%20Web%20Design-7B2CBF?style=flat-square&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Python-Basic%20Certification-5A189A?style=flat-square&logo=python&logoColor=white" />
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eshan-IT/Eshan-IT/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eshan-IT/Eshan-IT/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Eshan-IT/Eshan-IT/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+</div>
 
-### AWS & Cloud
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Foundations-3C096C?style=flat-square&logo=amazon-aws&logoColor=white" />
 
-### Oracle & Database
-<img src="https://img.shields.io/badge/Oracle-Database%20Foundations-240046?style=flat-square&logo=oracle&logoColor=white" />
 
-### Cisco
-<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-7B2CBF?style=flat-square&logo=cisco&logoColor=white" />
+<br>
 
----
+## 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshan-revankar-4b3796335)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshanrevankarimp@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Eshan-IT&style=for-the-badge&color=2575fc" alt="profile views"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
+
+<div align="center">
+⭐️ <i>Thanks for stopping by — always open to connecting with fellow developers and learners!</i>
+</div>
+
 
 ## 🧩 Coding Profiles
 
