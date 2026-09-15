@@ -76,16 +76,22 @@ I'm an **IT Engineer** currently pursuing my studies, with a strong passion for 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Eshan-IT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshan-IT&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshan-IT&theme=tokyonight&hide_border=true" />
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Eshan-IT&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&custom_title=📈%20My%20GitHub%20Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshan-IT&layout=compact&theme=radical&hide_border=true&custom_title=💻%20Top%20Languages&langs_count=8"/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshan-IT&theme=tokyo-night&hide_border=true" width="100%"/>
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshan-IT&theme=radical&hide_border=true&border_radius=10&fire=FF6B6B" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshan-IT&theme=radical&hide_border=true&area=true&color=ff6b6b&line=ff6b6b&point=ffffff" width="100%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Eshan-IT&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
+
 </div>
 
 <br>
