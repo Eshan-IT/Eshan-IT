@@ -33,13 +33,27 @@ I'm an **IT Engineer** currently pursuing my studies, with a strong passion for 
 
 <br><br>
 
-<img src="https://tech-stack.wontory.dev/api/orbit?text=Languages&slugs=javascript,typescript,java,python,cplusplus" width="260"/>
-<img src="https://tech-stack.wontory.dev/api/orbit?text=Frontend&slugs=html5,css3,react,nextdotjs,tailwindcss" width="260"/>
-
+**Languages**
 <br>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp&theme=dark" />
 
-<img src="https://tech-stack.wontory.dev/api/orbit?text=Backend&slugs=nodedotjs,express,mongodb,mysql" width="260"/>
-<img src="https://tech-stack.wontory.dev/api/orbit?text=Tools&slugs=git,github,visualstudiocode,figma,docker" width="260"/>
+<br><br>
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
+
+<br><br>
+
+**Backend & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+
+<br><br>
+
+**Tools & Platforms**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" />
 
 </div>
 
