@@ -77,8 +77,8 @@ I'm an **IT Engineer** currently pursuing my studies, with a strong passion for 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Eshan-IT&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&custom_title=📈%20My%20GitHub%20Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshan-IT&layout=compact&theme=radical&hide_border=true&custom_title=💻%20Top%20Languages&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Eshan-IT&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshan-IT&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 
 <br>
 
@@ -86,11 +86,7 @@ I'm an **IT Engineer** currently pursuing my studies, with a strong passion for 
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshan-IT&theme=radical&hide_border=true&area=true&color=ff6b6b&line=ff6b6b&point=ffffff" width="100%"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Eshan-IT&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshan-IT&theme=react-dark&hide_border=true" width="100%"/>
 
 </div>
 
