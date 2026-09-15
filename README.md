@@ -35,25 +35,39 @@ I'm an **IT Engineer** currently pursuing my studies, with a strong passion for 
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp&theme=dark" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=javascript&text=JavaScript&highlight=true" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=typescript&text=TypeScript&highlight=true" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=python&text=Python&highlight=true" />
 
 <br><br>
 
 **Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=react&text=React&highlight=true" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=nextdotjs&text=Next.js&highlight=true" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=tailwindcss&text=Tailwind&highlight=true" />
 
 <br><br>
 
 **Backend & Databases**
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=nodedotjs&text=Node.js&highlight=true" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=mongodb&text=MongoDB&highlight=true" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=mysql&text=MySQL&highlight=true" />
 
 <br><br>
 
 **Tools & Platforms**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=git&text=Git&highlight=true" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=docker&text=Docker&highlight=true" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=figma&text=Figma&highlight=true" />
+
+<br><br>
+
+*(full static icon set below as backup, in case any badge above doesn't render)*
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,figma,docker&theme=dark" />
 
 </div>
 
