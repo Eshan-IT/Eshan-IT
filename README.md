@@ -29,6 +29,20 @@ I'm an **IT Engineer** currently pursuing my studies, with a strong passion for 
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=500&color=6A11CB&center=true&vCenter=true&width=500&lines=Full-Stack+Toolbox+%F0%9F%A7%B0;Constantly+Growing+%F0%9F%8C%B1" alt="Tech Stack Typing" />
+
+<br><br>
+
+<marquee behavior="scroll" direction="left" scrollamount="5">
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,figma,docker&theme=dark" />
+</marquee>
+
+<br>
+
+*(if the scrolling strip doesn't render on your viewer, here's the static version 👇)*
+
+<br>
+
 **Languages**
 <br>
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp&theme=dark" />
@@ -81,6 +95,8 @@ I'm an **IT Engineer** currently pursuing my studies, with a strong passion for 
   <img alt="snake animation" src="https://raw.githubusercontent.com/Eshan-IT/Eshan-IT/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 </div>
+
+> *Note: the snake animation needs a one-time GitHub Actions setup — ask me and I'll walk you through it.*
 
 <br>
 
