@@ -58,16 +58,16 @@ I'm an **IT Engineer** currently pursuing my studies, with a strong passion for 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Eshan-IT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshan-IT&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshan-IT&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshan-IT&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 <br>
@@ -75,7 +75,7 @@ I'm an **IT Engineer** currently pursuing my studies, with a strong passion for 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Eshan-IT/Eshan-IT/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
 > *Note: the snake animation needs a one-time GitHub Actions setup — ask me and I'll walk you through it.*
@@ -94,7 +94,7 @@ I'm an **IT Engineer** currently pursuing my studies, with a strong passion for 
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2575fc" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Eshan-IT&style=for-the-badge&color=2575fc" alt="profile views"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
