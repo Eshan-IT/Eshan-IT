@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Eshan Revnkar] 👋
 
 🎓 IT Engineering student passionate about building clean, functional web applications and exploring how software solves real-world problems.
 
@@ -9,7 +9,7 @@
 - 🌱 Always learning new frameworks, tools, and best practices
 - 🎯 Actively looking for **internship/entry-level opportunities** in software development
 - 🤝 Open to collaborating on open-source and web dev projects
-- 📫 Reach me at: **[your.email@example.com]**
+- 📫 Reach me at: Eshanrevankarimp@gmail.com
 
 ## 🛠️ Tech Stack
 
