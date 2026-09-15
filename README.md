@@ -82,8 +82,6 @@ I'm an **IT Engineer** currently pursuing my studies, with a strong passion for 
 </picture>
 </div>
 
-> *Note: the snake animation needs a one-time GitHub Actions setup — ask me and I'll walk you through it.*
-
 <br>
 
 ## 📫 Connect with Me
