@@ -47,32 +47,51 @@ I am an **IT Engineer** currently pursuing my studies, with a strong passion for
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,docker,figma,vscode,linux&theme=dark" />
-  </marquee>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=500&color=6A11CB&center=true&vCenter=true&width=700&lines=Full-Stack+Toolbox+%F0%9F%A7%B0;Constantly+Growing+%F0%9F%8C%B1" alt="Tech Stack Typing" />
+
+<br><br>
+
+**Languages**
+<br>
+<img src="https://tech-stack.wontory.dev/api/badge?slug=javascript&text=JavaScript&highlight=true" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=typescript&text=TypeScript&highlight=true" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=python&text=Python&highlight=true" />
+
+<br><br>
+
+**Frontend**
+<br>
+<img src="https://tech-stack.wontory.dev/api/badge?slug=react&text=React&highlight=true" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=nextdotjs&text=Next.js&highlight=true" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=tailwindcss&text=Tailwind&highlight=true" />
+
+<br><br>
+
+**Backend & Databases**
+<br>
+<img src="https://tech-stack.wontory.dev/api/badge?slug=nodedotjs&text=Node.js&highlight=true" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=mongodb&text=MongoDB&highlight=true" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=mysql&text=MySQL&highlight=true" />
+
+<br><br>
+
+**Tools & Platforms**
+<br>
+<img src="https://tech-stack.wontory.dev/api/badge?slug=git&text=Git&highlight=true" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=docker&text=Docker&highlight=true" />
+<img src="https://tech-stack.wontory.dev/api/badge?slug=figma&text=Figma&highlight=true" />
+
+<br><br>
+
+*(full static icon set below as backup, in case any badge above doesn't render)*
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,figma,docker&theme=dark" />
+
 </div>
 
-<br />
+<br>
 
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css&theme=dark" />
-</p>
-
-### Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
-</p>
-
-### Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-</p>
-
-### Cloud, DevOps & Tooling
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux&theme=dark" />
-</p>
 
 ---
 
