@@ -128,26 +128,7 @@ I am an **IT Engineer** currently pursuing my studies, with a strong passion for
 
 <br>
 
-## 📫 Connect with Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshan-revankar-4b3796335)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshanrevankarimp@gmail.com)
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Eshan-IT&style=for-the-badge&color=2575fc" alt="profile views"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
-
-<div align="center">
-⭐️ <i>Thanks for stopping by — always open to connecting with fellow developers and learners!</i>
-</div>
 
 
 ## 🧩 Coding Profiles
@@ -208,6 +189,29 @@ I am an **IT Engineer** currently pursuing my studies, with a strong passion for
 
 ---
 
+## 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshan-revankar-4b3796335)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshanrevankarimp@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Eshan-IT&style=for-the-badge&color=2575fc" alt="profile views"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
+
+<div align="center">
+⭐️ <i>Thanks for stopping by — always open to connecting with fellow developers and learners!</i>
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 ```yaml
@@ -224,3 +228,4 @@ open_to:
   - Software Engineering Internships
   - Open-Source Contributions
   - Full-Stack Developer Roles
+
