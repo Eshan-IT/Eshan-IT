@@ -75,7 +75,11 @@ I'm an **IT Engineer** currently pursuing my studies, with a strong passion for 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Eshan-IT/Eshan-IT/output/github-contribution-grid-snake.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eshan-IT/Eshan-IT/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eshan-IT/Eshan-IT/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Eshan-IT/Eshan-IT/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 </div>
 
 > *Note: the snake animation needs a one-time GitHub Actions setup — ask me and I'll walk you through it.*
