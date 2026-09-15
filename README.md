@@ -107,55 +107,7 @@ I am an **IT Engineer** currently pursuing my studies, with a strong passion for
 
 ## 📌 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Eshan-IT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshan-IT&repo=Eshan-IT&theme=synthwave&show_owner=true" height="150" />
-  </a>
-</div>
-
-<br />
-
-<details>
-<summary><b>01. Full-Stack Web Application</b></summary>
-
-<br />
-
-A modern web application built to solve real-world workflows using full-stack JavaScript architectures.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | React.js, Next.js, Node.js, MongoDB |
-| **Scale** | Individual / Personal Application |
-| **Performance** | Optimized rendering and RESTful endpoint execution |
-| **Security** | JWT Authentication and environment protection |
-| **Impact** | Mastered modern component architecture & data persistence |
-| **Repository** | [View Source Code](https://github.com/Eshan-IT) |
-
-#### Professional Overview
-Architected a user-centered interface with responsive Tailwind styling and React state management, backed by Express route controllers and MongoDB data models.
-
-</details>
-
-<details>
-<summary><b>02. Algorithmic Data Scripting Tool</b></summary>
-
-<br />
-
-A Python utility for data processing, validation, and analytics reporting.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Python, Pandas, NumPy |
-| **Scale** | Command Line Tooling |
-| **Performance** | Optimized execution time for dataset parsing |
-| **Security** | Safe file parsing & local input validation |
-| **Impact** | Gained hands-on proficiency in structured data workflows |
-| **Repository** | [View Source Code](https://github.com/Eshan-IT) |
-
-#### Professional Overview
-Developed script workflows to import raw datasets, perform automated transformations, compute summary statistics, and render analysis data.
-
-</details>
+Comming Soon....
 
 ---
 
