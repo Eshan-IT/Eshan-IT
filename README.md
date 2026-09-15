@@ -46,24 +46,32 @@ I am an **IT Engineer** currently pursuing my studies, with a strong passion for
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,docker,figma,vscode,linux&theme=dark" />
+  </marquee>
+</div>
+
+<br />
+
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css&theme=dark" />
 </p>
 
 ### Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
 </p>
 
 ### Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 </p>
 
 ### Cloud, DevOps & Tooling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux&theme=dark" />
 </p>
 
 ---
@@ -79,6 +87,14 @@ I am an **IT Engineer** currently pursuing my studies, with a strong passion for
 ---
 
 ## 📌 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Eshan-IT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshan-IT&repo=Eshan-IT&theme=synthwave&show_owner=true" height="150" />
+  </a>
+</div>
+
+<br />
 
 <details>
 <summary><b>01. Full-Stack Web Application</b></summary>
