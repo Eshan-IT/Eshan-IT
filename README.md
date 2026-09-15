@@ -1,55 +1,104 @@
-# Hi, I'm [Eshan Revnkar] 👋
+<div align="center">
 
-🎓 IT Engineering student passionate about building clean, functional web applications and exploring how software solves real-world problems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Eshan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Engineer%20%7C%20Full-Stack%20Developer%20in%20Progress&descAlignY=55&descAlign=50" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=Learning+Software+Engineering+%F0%9F%92%BB;Building+Full-Stack+Web+Apps+%F0%9F%8C%90;Always+Curious%2C+Always+Coding+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br>
 
 ## 🚀 About Me
 
-- 💻 Full-stack development with a focus on modern JavaScript/TypeScript ecosystems
-- 📚 Currently studying **Information Technology**
-- 🌱 Always learning new frameworks, tools, and best practices
-- 🎯 Actively looking for **internship/entry-level opportunities** in software development
-- 🤝 Open to collaborating on open-source and web dev projects
-- 📫 Reach me at: Eshanrevankarimp@gmail.com
+I'm an **IT Engineer** currently pursuing my studies, with a strong passion for **Software Engineering** and **Web Development**. I love building things — from clean, responsive front-ends to solid, scalable back-end systems — and I'm constantly learning new tools and technologies to sharpen my full-stack skills.
+
+<br>
+
+## 🎯 Goals
+
+- 🌱 Currently deepening my knowledge of **Full-Stack Web Development**
+- 💡 Building real-world projects to apply what I learn
+- 🤝 Looking to collaborate on open-source and web dev projects
+- 📚 Always exploring new frameworks, tools, and best practices in software engineering
+
+<br>
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp&theme=dark" />
 
-**Frameworks & Libraries**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<br><br>
 
-**Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
+
+<br><br>
+
+**Backend & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+
+<br><br>
 
 **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" />
+
+</div>
+
+<br>
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-## 🌐 Connect with Me
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
 
----
-⭐️ Thanks for stopping by — feel free to explore my repositories and reach out if you'd like to collaborate!
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+> *Note: the snake animation needs a one-time GitHub Actions setup — ask me and I'll walk you through it.*
+
+<br>
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshan-revankar-4b3796335)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshanrevankarimp@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2575fc" alt="profile views"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
+
+<div align="center">
+⭐️ <i>Thanks for stopping by — always open to connecting with fellow developers and learners!</i>
+</div>
