@@ -175,19 +175,7 @@ I am an **IT Engineer** currently pursuing my studies, with a strong passion for
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshan-IT&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eshan-IT/Eshan-IT/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eshan-IT/Eshan-IT/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Eshan-IT/Eshan-IT/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
-
----
+--- 
 
 ## 📫 Connect with Me
 
