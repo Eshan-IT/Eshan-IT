@@ -84,7 +84,7 @@ I am an **IT Engineer** currently pursuing my studies, with a strong passion for
 
 <br><br>
 
-*(full static icon set below as backup, in case any badge above doesn't render)*
+*(full icon set below as backup, in case any badge above doesn't render)*
 <br>
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,figma,docker&theme=dark" />
 
